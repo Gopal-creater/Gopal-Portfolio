@@ -1,0 +1,19 @@
+.project-card-container {
+  border: 1px solid lightgrey;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.project-card-container .card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.project-card-container .card-title {
+  font-weight: bold;
+}
+
+.project-card-container .card-text {
+  text-align: justify;
+}
+/*# sourceMappingURL=ProjectItem.css.map */
