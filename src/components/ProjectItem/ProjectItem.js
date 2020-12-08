@@ -1,4 +1,5 @@
 import React from 'react'
+import reactimg from '../../Assets/react.png'
 
 export default function ProjectItem() {
     return (
